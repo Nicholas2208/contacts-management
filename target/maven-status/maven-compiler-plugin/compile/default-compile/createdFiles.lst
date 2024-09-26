@@ -1,0 +1,5 @@
+com\mkyong\MyServletInitializer.class
+com\mkyong\web\PathVariableController.class
+com\mkyong\web\PathVariableController2.class
+com\mkyong\config\SpringWebConfig.class
+com\mkyong\web\IndexController.class
